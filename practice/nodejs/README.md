@@ -21,7 +21,68 @@ practice/
 ├── 10-mail-and-websockets/
 └── README.md
 
-
+practice/
+│
+├── nodejs/
+│   │
+│   ├── README.md
+│   │
+│   ├── 01-runtime-and-cli/
+│   │   ├── 01-hello-node/
+│   │   ├── 02-process-and-argv/
+│   │   ├── 03-node-globals/
+│   │   └── 04-cli-notes-app/
+│   │
+│   ├── 02-filesystem/
+│   │   ├── 01-read-file/
+│   │   ├── 02-write-file/
+│   │   ├── 03-append-file/
+│   │   ├── 04-delete-file/
+│   │   └── 05-file-manager/
+│   │
+│   ├── 03-async-programming/
+│   │   ├── 01-sync-vs-async/
+│   │   ├── 02-promises/
+│   │   ├── 03-async-await/
+│   │   └── 04-async-file-manager/
+│   │
+│   ├── 04-events-and-streams/
+│   │   ├── 01-event-emitter/
+│   │   ├── 02-custom-events/
+│   │   ├── 03-read-stream/
+│   │   ├── 04-write-stream/
+│   │   └── 05-static-file-server/
+│   │
+│   ├── 05-http-server/
+│   │   ├── 01-first-server/
+│   │   ├── 02-routing/
+│   │   ├── 03-json-response/
+│   │   ├── 04-parse-body/
+│   │   └── 05-basic-api/
+│   │
+│   ├── 06-rest-api/
+│   │   ├── 01-users-api/
+│   │   ├── 02-posts-api/
+│   │   ├── 03-crud/
+│   │   ├── 04-validation/
+│   │   └── 05-json-database/
+│   │
+│   ├── 07-routing-and-middleware/
+│   │   ├── 01-custom-router/
+│   │   ├── 02-middleware-system/
+│   │   ├── 03-logger-middleware/
+│   │   ├── 04-auth-middleware/
+│   │   └── 05-mvc-refactor/
+│   │
+│   ├── 08-auth-basics/
+│   │   ├── 01-register/
+│   │   ├── 02-login/
+│   │   ├── 03-password-hashing/
+│   │   ├── 04-jwt/
+│   │   └── 05-protected-routes/
+│   │
+│   └── 09-mini-backend-project/
+│       └── mini-social-api/
 ---
 
 ## 📘 Теми для вивчення

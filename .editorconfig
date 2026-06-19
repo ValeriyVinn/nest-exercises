@@ -1,0 +1,31 @@
+# EditorConfig helps maintain consistent coding styles between different editors and IDEs
+# Place this file in the root of your repository
+
+root = true
+
+# --- Загальні налаштування для всіх файлів ---
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+
+# --- Для TypeScript / JavaScript ---
+[*.{ts,tsx,js,jsx}]
+quote_type = single
+max_line_length = 100
+
+# --- Для JSON ---
+[*.json]
+indent_size = 2
+
+# --- Для Markdown (не обрізати пробіли в кінці рядків) ---
+[*.md]
+trim_trailing_whitespace = false
+
+# --- Для файлів у practice/ (Node, Nest, Database) ---
+[practice/**]
+end_of_line = lf
+indent_size = 2

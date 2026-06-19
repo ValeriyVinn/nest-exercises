@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "perform": "node app.ts"
+  } 
+}

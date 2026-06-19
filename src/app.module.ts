@@ -6,7 +6,7 @@ import { AppService } from './app.service';
 @Module({
   imports: [
     // MongooseModule.forRoot(
-    //   'mongodb+srv://<USERNAME>:<PASSWORD>@cluster0.mongodb.net/nest-exercises',
+    //   'mongodb+srv://<USERNAME>:<PASSWORD>@cluster0.mongodb.net/nest-exercises'
     // ),
     // https://nest-exercises.onrender.com/
   ],

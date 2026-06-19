@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "hello": "node hello.ts",
+    "path": "node path.ts",
+    "start": "node start.ts" 
+  }
+}
