@@ -75,8 +75,8 @@ This repository serves as my personal backend learning environment and portfolio
 
 Репозиторій містить дві взаємодоповнюючі навчальні області:
 
-- **Застосунок Nest.js** — вправи та експерименти з бекенду, побудовані за допомогою Nest.js.
-- **Практика Vanilla JavaScript (`/practice`)** — незалежні вправи, що використовуються для зміцнення основних знань JavaScript та основ програмування.
+- **Nest.js application** — вправи та експерименти з бекенду, побудовані за допомогою Nest.js.
+- **Vanilla JavaScript practice (`/practice`)** — незалежні вправи, що використовуються для зміцнення основних знань JavaScript та основ програмування.
 
 ## Технології
 
