@@ -1,98 +1,124 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-</p>
+🇬🇧 English
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+# Nest.js Exercises
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg" alt="Donate us"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+## Overview
 
-## Description
+This educational repository documents my journey of learning backend development with Nest.js. It contains practical exercises, experiments, and small applications focused on building scalable and maintainable server-side software.
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+The main objective is to understand backend architecture by implementing real-world concepts through hands-on practice.
 
-## Project setup
+## Repository Structure
 
-```bash
-$ npm install
-```
+The repository contains two complementary learning areas:
 
-## Compile and run the project
+- **Nest.js application** — backend exercises and experiments built with Nest.js.
+- **Vanilla JavaScript practice (`/practice`)** — independent exercises used to strengthen core JavaScript knowledge and programming fundamentals.
 
-```bash
-# development
-$ npm run start
+## Technologies
 
-# watch mode
-$ npm run start:dev
+- Nest.js
+- Node.js
+- TypeScript
+- Express
+- REST API
+- PostgreSQL (planned)
+- Prisma (planned)
+- Docker (planned)
 
-# production mode
-$ npm run start:prod
-```
+## What You'll Find
 
-## Run tests
+- Controllers
+- Services
+- Modules
+- Dependency Injection
+- Routing
+- Middleware
+- Validation
+- Authentication
+- Authorization
+- REST APIs
+- Database Integration
+- Error Handling
+- Testing
+- Practical backend exercises
 
-```bash
-# unit tests
-$ npm run test
+## Current Status
 
-# e2e tests
-$ npm run test:e2e
+This repository is actively maintained and continuously expanded with new backend exercises and experiments.
 
-# test coverage
-$ npm run test:cov
-```
+## Current Focus
 
-## Deployment
+- Understanding Nest.js architecture
+- Building REST APIs
+- Improving TypeScript skills
+- Learning Dependency Injection
+- Preparing for database integration
+- Following backend best practices
 
-When you're ready to deploy your NestJS application to production, there are some key steps you can take to ensure it runs as efficiently as possible. Check out the [deployment documentation](https://docs.nestjs.com/deployment) for more information.
+## Purpose
 
-If you are looking for a cloud-based platform to deploy your NestJS application, check out [Mau](https://mau.nestjs.com), our official platform for deploying NestJS applications on AWS. Mau makes deployment straightforward and fast, requiring just a few simple steps:
+This repository serves as my personal backend learning environment and portfolio, documenting continuous progress toward becoming a full-stack JavaScript/TypeScript developer.
 
-```bash
-$ npm install -g @nestjs/mau
-$ mau deploy
-```
+--------------------------------
+🇺🇦 Українська
 
-With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
+# Вправи Nest.js
 
-## Resources
+## Огляд
 
-Check out a few resources that may come in handy when working with NestJS:
+Цей навчальний репозиторій відображає мій спосіб вивчення розробки бекенду за допомогою Nest.js. Він містить практичні вправи, експерименти та невеликі програми, спрямовані на створення масштабованого та зручного для підтримки серверного програмного забезпечення.
 
-- Visit the [NestJS Documentation](https://docs.nestjs.com) to learn more about the framework.
-- For questions and support, please visit our [Discord channel](https://discord.gg/G7Qnnhy).
-- To dive deeper and get more hands-on experience, check out our official video [courses](https://courses.nestjs.com/).
-- Deploy your application to AWS with the help of [NestJS Mau](https://mau.nestjs.com) in just a few clicks.
-- Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
-- Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com).
-- To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
-- Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
+Головна мета — зрозуміти архітектуру бекенду шляхом впровадження реальних концепцій через практику.
 
-## Support
+## Структура репозиторію
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+Репозиторій містить дві взаємодоповнюючі навчальні області:
 
-## Stay in touch
+- **Застосунок Nest.js** — вправи та експерименти з бекенду, побудовані за допомогою Nest.js.
+- **Практика Vanilla JavaScript (`/practice`)** — незалежні вправи, що використовуються для зміцнення основних знань JavaScript та основ програмування.
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+## Технології
 
-## License
+- Nest.js
+- Node.js
+- TypeScript
+- Express
+- REST API
+- PostgreSQL (планується)
+- Prisma (планується)
+- Docker (планується)
 
-Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+## Що ви знайдете
+
+- Контролери
+- Сервіси
+- Модулі
+- Впровадження залежностей
+- Маршрутизація
+- Проміжне програмне забезпечення
+- Валідація
+- Автентифікація
+- Авторизація
+- REST API
+- Інтеграція з базою даних
+- Обробка помилок
+- Тестування
+- Практичні вправи для бекенду
+
+## Поточний стан
+
+Цей репозиторій активно підтримується та постійно розширюється новими вправами та експериментами з бекенду.
+
+## Поточний фокус
+
+- Розуміння архітектури Nest.js
+- Створення REST API
+- Вдосконалення навичок TypeScript
+- Вивчення впровадження залежностей
+- Підготовка до інтеграції з базою даних
+- Дотримання найкращих практик бекенду
+
+## Мета
+
+Цей репозиторій служить моїм особистим навчальним середовищем та портфоліо для бекенду, документуючи постійний прогрес до того, щоб стати повноцінним розробником JavaScript/TypeScript.
