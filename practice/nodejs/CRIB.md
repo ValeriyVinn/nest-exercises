@@ -32,7 +32,7 @@ method returns the current working directory of the Node.js process.
 ## process.argv()
 
 # 02-filesystem
-## 01-path-module
+## 001-path-module
 
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -42,7 +42,9 @@ path.basename
 path.extname
 path.join
 path.resolve
-## 04-file-info-and-stats
+## 004-file-info-and-stats
+
+
 
 # 03-async-programming
 # 04-events-and-streams
