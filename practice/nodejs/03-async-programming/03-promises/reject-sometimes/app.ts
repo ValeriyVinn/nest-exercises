@@ -9,7 +9,6 @@ const dynamicPromise = () => {
   });
 };
 
-// Виклик без async/await
 dynamicPromise()
   .then(result => console.log('Успіх:', result))
   .catch((error: unknown) => {

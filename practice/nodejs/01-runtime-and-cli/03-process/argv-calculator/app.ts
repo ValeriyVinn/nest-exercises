@@ -12,7 +12,7 @@ const num1 = parseFloat(args[0]);
 const operator = args[1];
 const num2 = parseFloat(args[2]);
 
-let result;
+let result: number;
 
 // Perform the calculation based on the operator
 switch (operator) {
