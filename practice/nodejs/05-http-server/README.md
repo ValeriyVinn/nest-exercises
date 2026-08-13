@@ -468,19 +468,14 @@ const server = http.createServer((req, res) => {
 switch (req.method) {
   case "GET":
     break;
-
   case "POST":
     break;
-
   case "PUT":
     break;
-
   case "PATCH":
     break;
-
   case "DELETE":
     break;
-
   default:
     res.statusCode = 405;
     res.end("Method Not Allowed");
