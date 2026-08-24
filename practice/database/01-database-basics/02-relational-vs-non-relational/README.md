@@ -1,16 +1,12 @@
 ## 02. Relational vs Non-Relational Databases
 
 Database можна організовувати різними способами.
-
 Два основні підходи:
-
 - **Relational databases** — реляційні бази даних
 - **Non-relational databases** — нереляційні бази даних
-
 Головна відмінність полягає в тому, **як database організовує та пов'язує дані**.
 
 Relational database зазвичай використовує:
-
 - tables
 - rows
 - columns
@@ -18,14 +14,12 @@ Relational database зазвичай використовує:
 - predefined schema
 
 Non-relational database може використовувати:
-
 - documents
 - key-value pairs
 - graphs
 - wide-column structures
 
 ### Ключова ідея
-
 **Relational:**
 
 ```text
@@ -60,11 +54,8 @@ Database
 ---
 
 ### Relational Database
-
 **Relational Database** — database, у якій дані організовані у таблиці, а між таблицями можуть існувати визначені relationships.
-
 Наприклад:
-
 ```text
 users
 ┌────┬────────┬──────────────────┐
@@ -83,11 +74,8 @@ orders
 │ 3  │ 2       │ 80    │
 └────┴─────────┴───────┘
 ```
-
 `orders.user_id` може посилатися на `users.id`.
-
 Таким чином database може представляти relationship:
-
 ```text
 User
  │
