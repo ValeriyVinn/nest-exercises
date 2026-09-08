@@ -706,65 +706,36 @@ Database
 ---
 
 ## Типові помилки
-
 ❌ Вважати, що relational database = SQL.
-
 ❌ Вважати, що NoSQL означає "database без SQL".
-
 ❌ Вважати MongoDB єдиним типом NoSQL database.
-
 ❌ Вважати, що NoSQL database не має schema.
-
 ❌ Вважати, що relational databases не можуть масштабуватися горизонтально.
-
 ❌ Вважати, що NoSQL завжди швидша за relational database.
-
 ❌ Вважати, що relational database завжди потребує JOIN для будь-якого relationship.
-
 ❌ Вважати, що NoSQL не підтримує transactions.
-
 ❌ Вибирати database тільки за популярністю.
-
 ---
 
 ## Питання зі співбесіди
-
 Що таке relational database?
-
 Що таке non-relational database?
-
 Яка різниця між relational та non-relational databases?
-
 Що таке relational model?
-
 Що таке document database?
-
 Що таке NoSQL?
-
 Що означає NoSQL?
-
 Які існують типи NoSQL databases?
-
 Що таке document?
-
 Що таке flexible schema?
-
 Чим structured data відрізняється від semi-structured data?
-
 Як relational database представляє relationships?
-
 Як NoSQL database може представляти relationships?
-
 Що таке normalization?
-
 Що таке denormalization?
-
 Коли краще використовувати relational database?
-
 Коли краще використовувати NoSQL database?
-
 Чи означає NoSQL відсутність schema?
-
 Чи підтримують NoSQL databases transactions?
 
 ---
